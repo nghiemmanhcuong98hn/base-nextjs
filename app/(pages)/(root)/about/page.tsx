@@ -1,13 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
 const About = (props: Props) => {
-  throw new Error('Not implemented yet')
+  throw new Error('Not implemented yet');
 
-  return (
-    <div>About</div>
-  )
-}
+  return <div>About</div>;
+};
 
-export default About
+export default About;

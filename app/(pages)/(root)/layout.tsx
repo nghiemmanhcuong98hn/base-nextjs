@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 
 const MainLayout = ({ children }: { children: React.ReactNode }) => {
   return (
@@ -6,7 +6,7 @@ const MainLayout = ({ children }: { children: React.ReactNode }) => {
       <h1>Main Layout</h1>
       <div>{children}</div>
     </div>
-  )
-}
+  );
+};
 
-export default MainLayout
+export default MainLayout;

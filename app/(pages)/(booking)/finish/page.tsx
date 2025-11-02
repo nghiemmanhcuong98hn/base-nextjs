@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
 const FinishPage = (props: Props) => {
-  return (
-    <div>Finish Page</div>
-  )
-}
+  return <div>Finish Page</div>;
+};
 
-export default FinishPage
+export default FinishPage;

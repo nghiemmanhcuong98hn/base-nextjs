@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
 const CheckoutPage = (props: Props) => {
-  return (
-    <div>Checkout Page</div>
-  )
-}
+  return <div>Checkout Page</div>;
+};
 
-export default CheckoutPage
+export default CheckoutPage;
